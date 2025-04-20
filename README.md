@@ -12,7 +12,7 @@
 ## 🛠️ Projects
 | Project | Stack | Description |
 |--------|-------|-------------|
-| Expense Tracker | Spring Boot, React | Role-based, real-time UI |
+| LogiTrack | Spring Boot, React | Role-based, real-time UI |
 | URL Shortener | Java, Redis, Docker | High-performance microservice |
 | Chat App | WebSockets, Kafka | Real-time with status updates |
 
