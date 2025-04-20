@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Vikas Yadav 👋  
+🎓 Master's in CS | 💻 SDE with 2+ years in Java, Spring Boot  
+🚀 Aspiring Researcher + High-Impact Backend Engineer
 
-<!--
-**yadavikas004/yadavikas004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- 🔧 Java | Spring Boot | Microservices | Kafka | Docker
+- 💾 MySQL | MongoDB | Redis | Elasticsearch
+- 🌐 REST APIs | JWT | OAuth2 | RabbitMQ
+- 🧠 DSA | System Design | LLD/HLD | Design Patterns
+- 📊 ELK Stack | APM | GitHub Actions | CI/CD
 
-Here are some ideas to get you started:
+## 🛠️ Projects
+| Project | Stack | Description |
+|--------|-------|-------------|
+| Expense Tracker | Spring Boot, React | Role-based, real-time UI |
+| URL Shortener | Java, Redis, Docker | High-performance microservice |
+| Chat App | WebSockets, Kafka | Real-time with status updates |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Currently Working On
+- DSA Mastery via Striver SDE Sheet
+- System Design: Parking Lot, Rate Limiter, Instagram
+- Publishing Resume + PhD-ready academic profile
+
+## 🌍 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/yadav-vikas001/)
+- [GitHub](https://github.com/yadavikas004)
+- [Email](mailto:yadavikas088@gmail.com)
